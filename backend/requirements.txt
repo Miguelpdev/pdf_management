@@ -1,0 +1,9 @@
+Flask
+fitz
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+aiofiles
+PyMuPDF
+PyPDF2
