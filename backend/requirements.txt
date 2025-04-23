@@ -7,3 +7,5 @@ pydantic
 aiofiles
 PyMuPDF
 PyPDF2
+python-multipart
+PyCryptodome
